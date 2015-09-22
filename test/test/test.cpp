@@ -4,7 +4,7 @@ int main()
 {
 	using namespace std;
 	char word[5] = "?ate";
-	for (char i = 'a'; strcmp(word, "mate"); i++)
+	for (char i = 'a'; strcmp(word, "zate"); i++)
 	{
 		cout << word << endl;
 		word[0] = i;
