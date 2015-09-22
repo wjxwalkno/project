@@ -4,7 +4,7 @@ int main()
 {
 	using namespace std;
 	char word[5] = "?ate";
-char a[8];
+        char a[7];
 	for (char i = 'a'; strcmp(word, "zatt"); i++)
 	{
 		cout << word << endl;
