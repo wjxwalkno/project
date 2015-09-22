@@ -3,7 +3,8 @@
 int main()
 {
 	using namespace std;
-	char word[5] = "?ate";
+int i;
+	char word[5] = "?ata";
 	for (char i = 'a'; strcmp(word, "zate"); i++)
 	{
 		cout << word << endl;
